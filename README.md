@@ -1,6 +1,7 @@
 # Apache Cassandra & Spark SQL Example
 
 This GitHub repository showcases a Spark SQL project that focuses on data handling with Cassandra database integration. 
+
 <img src="https://github.com/Mansouri-Anas/CassandraSparkApplication/assets/106403012/c0f42c0f-1c2e-42c7-9812-e9421cd773c6" alt="Cassandra Logo" width="500">
 
 ## Getting Started
